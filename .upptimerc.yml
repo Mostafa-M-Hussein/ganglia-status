@@ -1,0 +1,43 @@
+owner: Mostafa-M-Hussein
+repo: ganglia-status
+
+sites:
+  - name: ganglia.dev
+    url: https://ganglia.dev
+  - name: ganglia.dev/docs
+    url: https://ganglia.dev/docs
+  - name: ganglia.dev/dashboard
+    url: https://ganglia.dev/dashboard
+  - name: api.ganglia.dev (license/status)
+    url: https://api.ganglia.dev/license/status?key=upptime-probe
+    expectedStatusCodes:
+      - 400
+      - 401
+      - 403
+  - name: npm registry — @ganglia/cli
+    url: https://registry.npmjs.org/@ganglia/cli/latest
+
+status-website:
+  cname: status.ganglia.dev
+  baseUrl: /
+  name: Ganglia status
+  introTitle: "**Ganglia** uptime — public status page"
+  introMessage: Real-time + 90-day history for ganglia.dev, the api, and the npm package. Checks fire every 5 min from a GitHub Actions runner.
+  logoUrl: https://ganglia.dev/favicon.svg
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/Mostafa-M-Hussein/ganglia-status
+    - title: Site
+      href: https://ganglia.dev
+
+assignees:
+  - Mostafa-M-Hussein
+
+i18n:
+  activeIncidents: Active incidents
+  allSystemsOperational: All systems operational
+  incidentReport: "Incident report:"
+  incidentMultipleTimes: "{0} times in the past {1} days"
+  incidentReportOnGitHub: Report incident on GitHub
