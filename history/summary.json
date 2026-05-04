@@ -1,0 +1,98 @@
+[
+  {
+    "name": "ganglia.dev",
+    "url": "https://ganglia.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/ganglia.dev.ico",
+    "slug": "ganglia-dev",
+    "status": "down",
+    "uptime": "28.17%",
+    "uptimeDay": "28.17%",
+    "uptimeWeek": "28.17%",
+    "uptimeMonth": "28.17%",
+    "uptimeYear": "28.17%",
+    "time": 35,
+    "timeDay": 35,
+    "timeWeek": 35,
+    "timeMonth": 35,
+    "timeYear": 35,
+    "dailyMinutesDown": {
+      "2026-05-04": 1
+    }
+  },
+  {
+    "name": "ganglia.dev/docs",
+    "url": "https://ganglia.dev/docs",
+    "icon": "https://icons.duckduckgo.com/ip3/ganglia.dev.ico",
+    "slug": "ganglia-dev-docs",
+    "status": "down",
+    "uptime": "37.90%",
+    "uptimeDay": "37.90%",
+    "uptimeWeek": "37.90%",
+    "uptimeMonth": "37.90%",
+    "uptimeYear": "37.90%",
+    "time": 32,
+    "timeDay": 32,
+    "timeWeek": 32,
+    "timeMonth": 32,
+    "timeYear": 32,
+    "dailyMinutesDown": {
+      "2026-05-04": 0
+    }
+  },
+  {
+    "name": "ganglia.dev/dashboard",
+    "url": "https://ganglia.dev/dashboard",
+    "icon": "https://icons.duckduckgo.com/ip3/ganglia.dev.ico",
+    "slug": "ganglia-dev-dashboard",
+    "status": "down",
+    "uptime": "70.56%",
+    "uptimeDay": "70.56%",
+    "uptimeWeek": "70.56%",
+    "uptimeMonth": "70.56%",
+    "uptimeYear": "70.56%",
+    "time": 35,
+    "timeDay": 35,
+    "timeWeek": 35,
+    "timeMonth": 35,
+    "timeYear": 35,
+    "dailyMinutesDown": {
+      "2026-05-04": 0
+    }
+  },
+  {
+    "name": "api.ganglia.dev (license/status)",
+    "url": "https://api.ganglia.dev/license/status?key=upptime-probe",
+    "icon": "https://icons.duckduckgo.com/ip3/api.ganglia.dev.ico",
+    "slug": "api-ganglia-dev-license-status",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "npm registry — @ganglia/cli",
+    "url": "https://registry.npmjs.org/@ganglia/cli/latest",
+    "icon": "https://icons.duckduckgo.com/ip3/registry.npmjs.org.ico",
+    "slug": "npm-registry-ganglia-cli",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 150,
+    "timeDay": 150,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
+    "dailyMinutesDown": {}
+  }
+]
